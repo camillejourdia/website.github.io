@@ -1,0 +1,17 @@
+@import url(CSS/Component/banner.css);
+@import url(CSS/Component/button.css);
+@import url(CSS/Component/card.css);
+@import url(CSS/Component/container.css);
+@import url(CSS/Component/footer.css);
+ 
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #E6DFD7;
+}
+ 
+h1, h2, h3, h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
